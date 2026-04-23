@@ -65,6 +65,14 @@ To analyze pizza sales data and provide actionable insights on revenue performan
    - Implemented drill-through and bookmarks for better user experience
 
 ---
+## 📊 Dashboard
+<img width="2678" height="1414" alt="pizza_sales_home" src="https://github.com/user-attachments/assets/b294e6fa-db0e-460b-bc8e-e7bd71faf8a1" />
+
+---
+
+<img width="2682" height="1430" alt="pizza_sales_bestworst_sales" src="https://github.com/user-attachments/assets/7640808d-5d17-460b-bf9c-9741057a07f1" />
+
+
 
 ## 📈 Key Project Insights
 
